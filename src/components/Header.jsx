@@ -122,11 +122,8 @@ export function Header() {
                 </>
               )}
             </Popover>
-            <Button href="/login" variant="outline" className="hidden lg:block">
+            <Button href="https://app.conveystatus.com/" variant="outline" className="hidden lg:block" target="_blank">
               Log in
-            </Button>
-            <Button href="#" className="hidden lg:block">
-              Download
             </Button>
           </div>
         </Container>

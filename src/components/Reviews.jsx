@@ -262,10 +262,10 @@ export function Reviews() {
           id="reviews-title"
           className="text-3xl font-medium tracking-tight text-gray-900 sm:text-center"
         >
-          Everyone is changing their life with Pocket.
+          We're on a mission to reduce the anxiety felt in stressful situations.
         </h2>
         <p className="mt-2 text-lg text-gray-600 sm:text-center">
-          Thousands of people have doubled their net-worth in the last 30 days.
+          See what our users are saying.
         </p>
         <ReviewGrid />
       </Container>

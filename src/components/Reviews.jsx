@@ -262,7 +262,7 @@ export function Reviews() {
           id="reviews-title"
           className="text-3xl font-medium tracking-tight text-gray-900 sm:text-center"
         >
-          We're on a mission to reduce the anxiety felt in stressful situations.
+          We are on a mission to reduce the anxiety felt in stressful situations.
         </h2>
         <p className="mt-2 text-lg text-gray-600 sm:text-center">
           See what our users are saying.

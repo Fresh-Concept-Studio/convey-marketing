@@ -37,7 +37,7 @@ const features = [
   {
     name: 'Get people caught up quickly',
     description:
-      'When someone recieves access to your Convey event they\'re able to read the backstory, and see historical updates. No need to re-tell over and over.',
+      'When someone recieves access to your Convey event they are able to read the backstory, and see historical updates. No need to re-tell over and over.',
     icon: DeviceTouchIcon,
     screen: InvestScreen,
   },

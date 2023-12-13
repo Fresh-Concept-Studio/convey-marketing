@@ -7,37 +7,38 @@ const faqs = [
     {
       question: 'How do I create an account?',
       answer:
-        'Download our app from the app store. You\'ll be prompted to create an account the first time you open the app. All that\'s required is a name and phone number. We\'ll send you a code to confirm your number, and then you''ll be able to begin using the app.' ,
+        'Download our app from the app store. You\'ll be prompted to create an account the first time you open the app. All that\'s required is a name and phone number. We\'ll send you a code to confirm your number, and then you\'ll be able to begin using the app',
     },
     {
-      question: 'Can I invite other to help me edit events and post updates?',
+      question: 'Can I invite others to help me edit events and post updates?',
       answer:
-        'Absolutely. Simply invite them as an editor, and they can see and edit the event in the same way you can.',
+        'Absolutely. Simply invite them as an editor, and they can see and edit the event in the same way you can',
     },
     {
       question: 'Can I invite people from my phone contacts?',
       answer:
-        'Yes, we make it easy to pull in individuals from you contacts to make adding them super easy.',
+        'Yes, we make it easy to pull in individuals from your contacts to make adding them super easy',
     },
   ],
   [
     {
       question: 'Is my information secure?',
       answer:
-        'We require a verified phone number to register and sign into your account, so only someone with your phone number (i.e. YOU) will be able to login or access your account.',
+        'We require a verified phone number to register and sign into your account, so only someone with your phone number (i.e., YOU) will be able to log in or access your account',
     },
     {
       question: 'Can I add photos to events?',
       answer:
-        'Yes, photos can be added to the gallery or attached to updates.',
+        'Yes, photos can be added to the gallery or attached to updates',
     },
     {
       question: 'Can people opt out from receiving updates?',
       answer:
-        'Of course. If you invite someone to view an event, they simply have to text "STOP" in order to stop receiving updates.',
+        'Of course. If you invite someone to view an event, they simply have to text "STOP" in order to stop receiving updates',
     },
   ],
-]
+];
+
 
 export function Faqs() {
   return (

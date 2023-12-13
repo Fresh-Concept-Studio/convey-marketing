@@ -14,11 +14,6 @@ const faqs = [
       answer:
         'Absolutely. Simply invite them as an editor, and they can see and edit the event in the same way you can',
     },
-    {
-      question: 'Can I invite people from my phone contacts?',
-      answer:
-        'Yes, we make it easy to pull in individuals from your contacts to make adding them super easy',
-    },
   ],
   [
     {
@@ -30,6 +25,14 @@ const faqs = [
       question: 'Can I add photos to events?',
       answer:
         'Yes, photos can be added to the gallery or attached to updates',
+    },
+
+  ],
+  [
+    {
+      question: 'Can I invite people from my phone contacts?',
+      answer:
+        'Yes, we make it easy to pull in individuals from your contacts to make adding them super easy',
     },
     {
       question: 'Can people opt out from receiving updates?',

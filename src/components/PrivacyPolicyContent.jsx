@@ -37,7 +37,7 @@ const PrivacyPolicyContent = (
     <p className="mb-4">At Convey, the security of your information is of utmost importance to us. We employ a comprehensive range of robust security measures, each meticulously designed to safeguard your data from unauthorized access, disclosure, or any form of compromise.</p>
 
     <h2 className="text-xl font-bold mt-6 mb-2">7. Your Choices</h2>
-    <p className="mb-4">At Convey, we believe in empowering our users with choices and control over their experience. You have the ability to tailor your interactions and preferences within the app to suit your needs. If you ever want to stop updates, simply text "STOP".</p>
+    <p className="mb-4">At Convey, we believe in empowering our users with choices and control over their experience. You have the ability to tailor your interactions and preferences within the app to suit your needs. If you ever want to stop updates, simply text &quot;STOP&quot;.</p>
 
     <h2 className="text-xl font-bold mt-6 mb-2">8. Children’s Privacy</h2>
     <p className="mb-4">Our app is not intended for individuals under the age of 17 and we do not knowingly collect personal information from children.</p>

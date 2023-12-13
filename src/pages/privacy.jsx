@@ -10,7 +10,7 @@ const Terms = () => {
   return (
     <>
       <Head>
-        <title>Convey - Terms of Service</title>
+        <title>Convey - Privacy Policy</title>
       </Head>
       <Header />
       <main>

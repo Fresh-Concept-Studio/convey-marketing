@@ -5,53 +5,36 @@ import { Container } from '@/components/Container'
 const faqs = [
   [
     {
-      question: 'Lorem ipsum dolor sit amet?',
+      question: 'How do I create an account?',
       answer:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum vestibulum neque, eget lacinia justo ultricies et. Sed in urna pharetra, volutpat mauris vitae, feugiat leo. ',
+        'Download our app from the app store. You\'ll be prompted to create an account the first time you open the app. All that\'s required is a name and phone number. We\'ll send you a code to confirm your number, and then you''ll be able to begin using the app.' ,
     },
     {
-      question: 'Lorem ipsum dolor sit amet?',
+      question: 'Can I invite other to help me edit events and post updates?',
       answer:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum vestibulum neque, eget lacinia justo ultricies et. Sed in urna pharetra, volutpat mauris vitae, feugiat leo. ',
+        'Absolutely. Simply invite them as an editor, and they can see and edit the event in the same way you can.',
     },
     {
-      question: 'Lorem ipsum dolor sit amet?',
+      question: 'Can I invite people from my phone contacts?',
       answer:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum vestibulum neque, eget lacinia justo ultricies et. Sed in urna pharetra, volutpat mauris vitae, feugiat leo. ',
-    },
-  ],
-  [
-    {
-      question: 'Lorem ipsum dolor sit amet?',
-      answer:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum vestibulum neque, eget lacinia justo ultricies et. Sed in urna pharetra, volutpat mauris vitae, feugiat leo. ',
-    },
-    {
-      question: 'Lorem ipsum dolor sit amet?',
-      answer:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum vestibulum neque, eget lacinia justo ultricies et. Sed in urna pharetra, volutpat mauris vitae, feugiat leo. ',
-    },
-    {
-      question: 'Lorem ipsum dolor sit amet?',
-      answer:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum vestibulum neque, eget lacinia justo ultricies et. Sed in urna pharetra, volutpat mauris vitae, feugiat leo. ',
+        'Yes, we make it easy to pull in individuals from you contacts to make adding them super easy.',
     },
   ],
   [
     {
-      question: 'Lorem ipsum dolor sit amet?',
+      question: 'Is my information secure?',
       answer:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum vestibulum neque, eget lacinia justo ultricies et. Sed in urna pharetra, volutpat mauris vitae, feugiat leo. ',
+        'We require a verified phone number to register and sign into your account, so only someone with your phone number (i.e. YOU) will be able to login or access your account.',
     },
     {
-      question: 'Lorem ipsum dolor sit amet?',
+      question: 'Can I add photos to events?',
       answer:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum vestibulum neque, eget lacinia justo ultricies et. Sed in urna pharetra, volutpat mauris vitae, feugiat leo. ',
+        'Yes, photos can be added to the gallery or attached to updates.',
     },
     {
-      question: 'Lorem ipsum dolor sit amet?',
+      question: 'Can people opt out from receiving updates?',
       answer:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum vestibulum neque, eget lacinia justo ultricies et. Sed in urna pharetra, volutpat mauris vitae, feugiat leo. ',
+        'Of course. If you invite someone to view an event, they simply have to text "STOP" in order to stop receiving updates.',
     },
   ],
 ]
@@ -74,7 +57,7 @@ export function Faqs() {
           <p className="mt-2 text-lg text-gray-600">
             If you have anything else you want to ask,{' '}
             <Link
-              href="mailto:info@example.com"
+              href="mailto:support@conveystatus.com"
               className="text-gray-900 underline"
             >
               reach out to us

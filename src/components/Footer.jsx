@@ -40,8 +40,8 @@ export function Footer() {
             <nav className="mt-11 flex gap-8">
               <NavLinks />
               <Link
-                key='Terms & Conditions'
-                href='/terms'
+                key='Privacy Policy'
+                href='/privacy'
                 className="relative -my-2 -mx-3 rounded-lg px-3 py-2 text-sm text-gray-700 transition-colors delay-150 hover:text-gray-900 hover:delay-[0ms]"
               >
                 <span className="relative z-10">Term & Conditions</span>

@@ -18,7 +18,7 @@ export function SupportHeader() {
             Have questions? Need support?
           </h2>
           <p className="mt-2 text-lg text-gray-600">
-            If you're having issues with the app please reach out to our support team at{' '}
+            If you&apos;re having issues with the app please reach out to our support team at{' '}
             <Link
               href="mailto:support@conveystatus.com"
               className="text-gray-900 underline"

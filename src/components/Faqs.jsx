@@ -7,7 +7,7 @@ const faqs = [
     {
       question: 'How do I create an account?',
       answer:
-        '<a href="https://apps.apple.com/in/app/convey-status/id6451424278" target="_blank" rel="noopener noreferrer">Download our app</a> from the app store. You\'ll be prompted to create an account the first time you open the app. All that\'s required is a name and phone number. We\'ll send you a code to confirm your number, and then you\'ll be able to begin using the app.',
+        'Download our app, Convey Status, from the app store. You\'ll be prompted to create an account the first time you open the app. All that\'s required is a name and phone number. We\'ll send you a code to confirm your number, and then you\'ll be able to begin using the app.',
     },
     {
       question: 'Can I invite others to help me edit events and post updates?',

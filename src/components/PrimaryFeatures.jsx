@@ -415,7 +415,7 @@ export function PrimaryFeatures() {
             Eliminate the stress in an already stressfull situation.
           </h2>
           <p className="mt-2 text-lg text-gray-400">
-            We&apos;ve been there before. We were the parent&apos;s with the daughter in an accident. We were fielding dozens of texts and calls. Repeating ourselves over and over. We&apos;ve been in your shoes and built this app to help.
+            We&apos;ve been there before. We were the parents with the daughter in an accident. We were fielding dozens of texts and calls. Repeating ourselves over and over. We&apos;ve been in your shoes and built this app to help.
           </p>
         </div>
       </Container>

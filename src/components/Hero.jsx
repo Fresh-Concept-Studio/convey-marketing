@@ -270,7 +270,7 @@ export function Hero() {
               Update your friends and family.
             </h1>
             <p className="mt-6 text-lg text-gray-600">
-              Convey is the single place for everyone to recieve updates on heath emergencies, important events, and the like. Stop managing a dozen seperate text threads. Control how the information is shared.
+              Convey is the single place for everyone to recieve updates on health emergencies, important events, and the like. Stop managing a dozen seperate text threads. Control how the information is shared.
             </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <AppStoreLink />

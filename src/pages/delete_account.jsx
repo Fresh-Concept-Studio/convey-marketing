@@ -2,7 +2,7 @@
 import Head from 'next/head';
 import { Footer } from '@/components/Footer';
 import { Header } from '@/components/Header';
-import PrivacyPolicyContent from '@/components/PrivacyPolicyContent';  // Correct import
+import DeleteAccountContent from '@/components/DeleteAccountContent';  // Correct import
 
 import { Container } from '@/components/Container';
 
